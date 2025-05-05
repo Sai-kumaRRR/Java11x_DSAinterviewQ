@@ -1,5 +1,7 @@
 import java.util.HashSet;
 import java.util.Set;
+import java.util.ArrayList;
+import java.util.List;
 
 public class Lab25_ListToSet {
     public static  void main(String[] args) {
